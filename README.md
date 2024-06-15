@@ -21,6 +21,9 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a> 
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40" style="max-width: 100%;"></a> 
+    
 </div>
 <!-- ![Image alt](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 ![Image alt](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) -->
