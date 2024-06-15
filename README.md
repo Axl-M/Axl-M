@@ -8,7 +8,7 @@
 
 🛠️ Languages and Tools :
 ![Image alt](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-
+![Image alt](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
 <!---
 Axl-M/Axl-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
