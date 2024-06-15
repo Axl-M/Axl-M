@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg
 
+![Image alt](https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg)
 - 👋 Hi, I’m @Axl-M
 - 👀 I’m interested in Python, Django, Flask, Fast-API, Big-Data, Kotlin, Golang etc.
 - 🌱 I’m currently learning ...
